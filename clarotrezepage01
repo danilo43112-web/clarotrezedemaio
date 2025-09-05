@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Claro 13 de Maio — Melhores Ofertas</title>
+  <meta name="description" content="Você está sem dados? Vem pra Claro 13 de Maio. Planos controle a partir de R$ 54,90/mês no débito automático, ligações ilimitadas e atendimento top." />
+  <style>
+    :root{
+      --bg:#ffffff; --accent:#e10600; --text:#1f2937; --muted:#6b7280;
+    }
+    *{box-sizing:border-box}
+    html,body{margin:0;height:100%;background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,'Helvetica Neue',Arial,'Noto Sans',sans-serif;}
+    .wrap{max-width:600px;margin:0 auto;padding:20px;text-align:center;}
+    .dino{font-size:80px;margin:20px 0;}
+    h1{font-size:22px;margin:12px 0;}
+    p{color:var(--muted);margin:6px 0;}
+    .card{margin-top:24px;padding:18px;border:1px solid #e5e7eb;border-radius:12px;background:#f9fafb;text-align:left;}
+    .price{font-size:26px;font-weight:700;color:var(--accent)}
+    ul{margin:12px 0;padding-left:20px;color:#374151}
+    a.btn{display:inline-block;margin-top:12px;padding:12px 18px;border-radius:8px;font-weight:600;text-decoration:none;background:var(--accent);color:#fff;}
+    .mini{margin-top:12px;font-size:12px;color:var(--muted)}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="dino">🦖</div>
+    <h1>Sem Internet</h1>
+    <p>Você está sem dados para visualizar essa imagem?</p>
+    <p><strong>Vem pra Claro 13 de Maio!</strong></p>
+
+    <div class="card">
+      <div class="price">Planos Controle a partir de R$ 54,90/mês</div>
+      <ul>
+        <li>25 GB de internet (débito automático)</li>
+        <li>Ligações ilimitadas para qualquer operadora</li>
+        <li>Ótimo atendimento e suporte local</li>
+      </ul>
+      <a class="btn" href="https://wa.me/556791358448" target="_blank" rel="noopener">Chamar no WhatsApp</a>
+      <div class="mini">Sujeito à análise de crédito. Condições podem mudar sem aviso prévio.</div>
+    </div>
+  </div>
+</body>
+</html>
